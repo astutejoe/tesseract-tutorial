@@ -1,0 +1,73 @@
+Arial Unicode MS Regular
+DejaVu Sans
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Serif
+DejaVu Serif Bold
+DejaVu Serif Bold Italic
+DejaVu Serif Bold Italic Semi-Condensed
+DejaVu Serif Bold Oblique
+DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic
+DejaVu Serif Italic Semi-Condensed
+DejaVu Serif Oblique
+DejaVu Serif Semi-Condensed
+Droid Sans Bold
+Droid Sans Mono Regular
+Droid Sans Regular
+Droid Serif Bold
+Droid Serif Bold Italic
+Droid Serif Italic
+Droid Serif Regular
+FreeMono Bold
+FreeMono Bold Italic
+FreeMono Italic
+FreeMono Regular
+FreeSans Italic
+FreeSans Regular
+FreeSans Semi-Bold
+FreeSans Semi-Bold Italic
+FreeSerif Bold
+FreeSerif Bold Italic
+FreeSerif Italic
+FreeSerif Regular
+Linux Biolinum O Bold
+Linux Biolinum O Regular
+Linux Libertine O Bold
+Linux Libertine O Bold Italic
+Linux Libertine O Italic
+Linux Libertine O Regular
+Lucida Bright Regular
+Lucida Sans Demibold
+Lucida Sans Oblique
+Lucida Sans Regular
+Lucida Sans Typewriter Bold
+Lucida Sans Typewriter Oblique
+Lucida Sans Typewriter Regular
+MS Gothic Regular
+MS Mincho Regular
+Palatino Linotype Bold
+Palatino Linotype Bold Italic
+Palatino Linotype Italic
+Palatino Linotype Regular
+Ubuntu Bold
+Ubuntu Bold Italic
+Ubuntu Condensed,
+Ubuntu Italic
+Ubuntu Light
+Ubuntu Light Italic
+Ubuntu Medium
+Ubuntu Medium Italic
+Ubuntu Mono Bold
+Ubuntu Mono Bold Italic
+Ubuntu Mono Italic
+Ubuntu Mono Regular
+Ubuntu Regular
+UmePlus Gothic Regular
+UmePlus P Gothic Regular
+VL PGothic regular

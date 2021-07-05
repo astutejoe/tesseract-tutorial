@@ -1,0 +1,15 @@
+Arial Unicode MS Regular
+cheluvi Medium
+Kedage Bold
+Kedage Bold Italic
+Kedage Italic
+Kedage Normal
+Lohit Kannada Regular
+Mallige Bold
+Mallige Bold Italic
+Mallige Italic
+Mallige Normal
+Noto Sans Kannada Bold
+Noto Sans Kannada Regular
+Tunga Bold
+Tunga Regular
