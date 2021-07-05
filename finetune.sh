@@ -4,4 +4,4 @@ OMP_THREAD_LIMIT=16 lstmtraining \
 	--model_output output/pubg \
 	--traineddata tesseract/tessdata/eng.traineddata \
 	--train_listfile train/eng.training_files.txt \
-	--max_iterations 2000
+	--max_iterations 400

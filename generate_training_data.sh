@@ -6,5 +6,5 @@ tesstrain.sh --fonts_dir fonts \
 	--langdata_dir langdata_lstm \
 	--tessdata_dir tesseract/tessdata \
 	--save_box_tiff \
-	--maxpages 200 \
+	--maxpages 10 \
 	--output_dir train
